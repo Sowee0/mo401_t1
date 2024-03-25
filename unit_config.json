@@ -1,0 +1,17 @@
+{
+"fint":
+{   "number":1, 
+    "ex_cycles":1},
+
+"fmult":
+{   "number":2, 
+    "ex_cycles":4},
+
+"fadd":
+{   "number":1, 
+    "ex_cycles":2},
+
+"fdiv":
+{   "number":1, 
+    "ex_cycles":10}
+}
