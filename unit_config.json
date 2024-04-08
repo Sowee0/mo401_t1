@@ -1,9 +1,9 @@
 {
-"fint":
+"int":
 {   "number":1, 
     "ex_cycles":1},
 
-"fmult":
+"fmul":
 {   "number":2, 
     "ex_cycles":4},
 
